@@ -1,0 +1,5 @@
+Model,Performance Score,Average Cost,Benefit/Cost Ratio,Infrastructure Cost,Operational Cost,Complexity,Fault Tolerance,Scalability
+Priority-Based,83.90950958929734,2.2,1.907034308847667,2,2,3,2,2
+Permissioned DLT (M/M/c),93.22748568453923,3.4,1.3709924365373416,3,3,3,4,4
+Multi-Stage,97.246725776198,4.0,1.215584072202475,4,4,4,4,4
+Batch-Based,0.0,3.8,0.0,4,3,3,4,5

@@ -1,0 +1,7 @@
+,Permissioned DLT (M/M/c),Multi-Stage,Batch-Based,Priority-Based
+Retail Payments (High Volume),5,4,5,3
+Critical Transactions,4,4,2,5
+Disaster Relief Payments,4,3,3,5
+Cross-Border Settlements,5,5,4,3
+Budget-Constrained Deployment,3,2,2,4
+Rapid National Rollout,4,3,5,3

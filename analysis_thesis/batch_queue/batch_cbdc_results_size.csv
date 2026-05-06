@@ -1,0 +1,14 @@
+Metric,Value
+Mean Total Confirmation Time (ms),170.97
+P95 Confirmation Time (ms),319.27
+Mean Queueing Time (ms),0.02
+Mean Individual Validation (ms),6.67
+Mean Batch Formation (ms),150.51
+Analytical Batch Formation (ms),122.50
+Mean Batch Validation (ms),6.52
+Mean Consensus (ms),3.94
+Mean Commit (ms),3.31
+Throughput (TPS),199.86
+Batch Mode,SIZE-BASED
+Batch Size (B),200
+Number of Batches,11898

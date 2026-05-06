@@ -1,0 +1,6 @@
+Model,Status,Reason
+Centralized (M/M/1),Unstable,ρ ≥ 1.0
+Permissioned DLT (M/M/c),Stable,ρ < 1.0
+Multi-Stage,Stable,ρ < 1.0
+Batch-Based,Stable,ρ < 1.0
+Priority-Based,Stable,ρ < 1.0
