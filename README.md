@@ -3,7 +3,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![SimPy](https://img.shields.io/badge/SimPy-4.0+-green.svg)](https://simpy.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Thesis](https://img.shields.io/badge/Thesis-Master's-red.svg)](thesis/)
+[![Thesis](https://img.shields.io/badge/Thesis-red.svg)](thesis/)
 
 ## Overview
 
