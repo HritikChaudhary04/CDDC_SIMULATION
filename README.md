@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains the simulation framework, analytical models, and Hyperledger Fabric prototype developed for the Master's thesis **"Performance Analysis of CBDC Transaction Confirmation Time Using Queueing Theory: A Simulation Study for Nepal."**
+This repository contains the simulation framework, analytical models, and Hyperledger Fabric prototype developed for the Undergraduate thesis **"Performance Analysis of CBDC Transaction Confirmation Time Using Queueing Theory: A Simulation Study for Nepal."**
 
 The work provides the first quantitative performance evaluation of Central Bank Digital Currency (CBDC) architectures suitable for Nepal Rastra Bank's planned 2028 deployment at 200 transactions per second.
 
