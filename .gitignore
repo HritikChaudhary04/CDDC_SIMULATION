@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Simulation outputs
+results/*.csv
+results/*.pkl
+*.log
+
+# Hyperledger Fabric
+prototype/network/organizations/
+prototype/network/channel-artifacts/
+prototype/network/system-genesis-block/
+prototype/caliper/.caliper/
+prototype/caliper/report.html
