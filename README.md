@@ -180,7 +180,7 @@ If you use this code or findings in your research, please cite:
                   Using Queueing Theory: A Simulation Study for Nepal}
   school       = {Kathmandu University, Department of Mathematics},
   year         = {2025},
-  type         = {Master's Thesis},
+  type         = {Thesis},
   address      = {Dhulikhel, Nepal}
 }
 ```
